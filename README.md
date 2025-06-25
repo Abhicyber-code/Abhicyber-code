@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhicyber-code
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m MERN stack developer
 - 📫 How to reach me - abhijeetgitte85@gmail.com
 
 <!---
